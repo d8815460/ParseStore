@@ -10,6 +10,7 @@
 
 @implementation STPCheckoutView
 
+
 @synthesize paymentView, key, pending;
 
 - (id)initWithFrame: (CGRect)frame andKey: (NSString*)stripeKey
